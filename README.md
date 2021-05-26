@@ -1,0 +1,2 @@
+# seqGA
+Sequential Genetic Algorithm
